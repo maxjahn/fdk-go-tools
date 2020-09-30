@@ -1,6 +1,4 @@
 # fdktools
---
-    import "src/public/fdk-go-tools"
 
 Package fdk-go-tools provides some helper functions for writing serverless
 functions for fnproject in Go.
